@@ -1,10 +1,7 @@
 ### Eae! Eu sou o Matheus 👋
 
-- 📍 Goiânia-GO
-- 🔭 Atualmente trabalho com fabricação de roupas jeans
 - 🌱 Estudando Front-end e Bancos de Dados
 - 🎓 Estudante de Sistemas de Informação na Estácio 2019-2022
-- 🔥 Musculação e Correr
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmatheus&show_icons=true&theme=merko)
 
