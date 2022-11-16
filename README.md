@@ -1,7 +1,7 @@
 ### Eae! Eu sou o Matheus 👋
 
-- 🌱 Estudando Front-end e Bancos de Dados
-- 🎓 Estudante de Sistemas de Informação na Estácio 2019-2022
+- 🌱 Aprimorando conhecimentos Fulldstack e DBA
+- 🎓 Bacharel em Sistemas de Informação na Estácio 2019-2022
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmatheus&show_icons=true&theme=merko)
 
