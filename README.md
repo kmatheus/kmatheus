@@ -1,6 +1,6 @@
 ### Eae! Eu sou o Matheus 👋
 
-- 🌱 Aprimorando meus conhecimentos em Fullstack com Python/Django e Banco de Dados PostgreSQL
+- 🌱 Aprimorando meus conhecimentos como Desenvolvedor Fullstack com Python/Django e Banco de Dados PostgreSQL
 - 🎓 Bacharel em Sistemas de Informação na Estácio 2019-2022
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmatheus&show_icons=true&theme=merko)
