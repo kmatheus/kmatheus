@@ -6,8 +6,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmatheus&show_icons=true&theme=merko)
 
 <div>
-  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWrRsqXfcvtPVFLPsdSWTLHqbxdqKXNQxZlcGRfhSNgzDnqcfSrddSxRnnlqmVPMDnFfsPcdl">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWrRsqXfcvtPVFLPsdSWTLHqbxdqKXNQxZlcGRfhSNgzDnqcfSrddSxRnnlqmVPMDnFfsPcdl" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://web.facebook.com/matheusdias.blaze" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
