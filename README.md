@@ -1,7 +1,7 @@
 ### Eae! Eu sou o Matheus 👋
 
 - 🌱 Aprimorando meus conhecimentos como desenvolvedor Full-Stack, com ferramentas como Django (Python), banco de dados PostgreSQL e MySQL, JavaScript e Bootstrap 5
-- 🎓 Bacharel em Sistemas de Informação na Estácio 2019-2022
+- 🎓 Bacharel em Sistemas de Informação (Estácio 2019-2022)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmatheus&show_icons=true&theme=merko)
 
