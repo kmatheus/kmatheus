@@ -8,4 +8,4 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 
 ## 📈 GitHub Stats 
-![Seu Status](https://github-readme-stats.vercel.app/api?username=kmatheus&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmatheus&theme=merko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs)
