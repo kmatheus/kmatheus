@@ -1,4 +1,4 @@
-# Olá, eu sou Kelvin Matheus! 👋 / Hi, I'm Kelvin Matheus! 👋
+# Hi, I'm Kelvin Matheus!
 - 🎓 **Bachelor's in Information Systems**
 - 🎯 **Python Backend Developer:** Python | Django | APIs
 - 🌎 **Goiânia-GO, Brazil**
