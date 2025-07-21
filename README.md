@@ -1,7 +1,7 @@
 # Olá, eu sou Kelvin Matheus! 👋 / Hi, I'm Kelvin Matheus! 👋
-* 🎓 Bacharel em Sistemas de Informação | Bachelor's in Information Systems
-* 🎯 Desenvolvedor Backend Python | Django | APIs | Python Backend Developer | Django | APIs
-* 🌎 Goiânia-GO, Brasil 
+- 🎓 **Bacharel em Sistemas de Informação | Bachelor's in Information Systems**
+- 🎯 **Desenvolvedor Backend / Python Backend Developer:** Python | Django | APIs
+- 🌎 **Goiânia-GO, Brasil**
 
 ## 🛠 Tech Stack / Habilidades
 ### Backend & Databases
