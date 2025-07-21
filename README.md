@@ -1,9 +1,9 @@
 # Olá, eu sou Kelvin Matheus! 👋 / Hi, I'm Kelvin Matheus! 👋
-- 🎓 **Bacharel em Sistemas de Informação | Bachelor's in Information Systems**
-- 🎯 **Desenvolvedor Backend / Python Backend Developer:** Python | Django | APIs
-- 🌎 **Goiânia-GO, Brasil**
+- 🎓 **Bachelor's in Information Systems**
+- 🎯 **Python Backend Developer:** Python | Django | APIs
+- 🌎 **Goiânia-GO, Brazil**
 
-## 🛠 Tech Stack / Habilidades
+## 🛠 Tech Stack
 ### Backend & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -37,17 +37,18 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 💡 Skills & Expertise  
-- **Finance Systems**: FocusNFe, Meep Cantina, Scritum (assinatura digital).   
-- **Relatórios**: Automação com Python (PDF, Excel).  
+- **Finance Systems**: Accounts receivable, cash flow and operations, electronic invoice issuance and others.
+- **Integration**: FocusNFe, Meep Cantina, Scritum (digital subscription).   
+- **Reports**: Automation with Python (PDF, Excel).  
 
 ## 📈 GitHub Stats 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmatheus&theme=merko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs)](https://github-readme-stats.vercel.app/api?username=kmatheus&theme=merko&count_private=true&include_all_commits=true&show_icons=true)
 <!--
-## 🌟 Projetos Destacados / Highlights
+## 🌟 Highlights
 * 👉 Projeto Django + PostgreSQL - Descrição breve.
 * 👉 API com FastAPI - Descrição breve.
 
-## 📫 Contato / Contact
+## 📫 Contact
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)
 -->
