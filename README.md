@@ -32,19 +32,17 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## Others
+### Others
 ![PyGame](https://img.shields.io/badge/PyGame-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 💡 Skills & Expertise  
-- **Finance Systems**: FocusNFe, Meep Cantina, Scritum (assinatura digital).  
-- **Frontend**: Bootstrap, jQuery, AJAX (para interfaces dinâmicas).  
+- **Finance Systems**: FocusNFe, Meep Cantina, Scritum (assinatura digital).   
 - **Relatórios**: Automação com Python (PDF, Excel).  
 
 ## 📈 GitHub Stats 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmatheus&theme=merko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs)](https://github-readme-stats.vercel.app/api?username=kmatheus&theme=merko&count_private=true&include_all_commits=true&show_icons=true)
-
+<!--
 ## 🌟 Projetos Destacados / Highlights
 * 👉 Projeto Django + PostgreSQL - Descrição breve.
 * 👉 API com FastAPI - Descrição breve.
@@ -52,3 +50,4 @@
 ## 📫 Contato / Contact
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)
+-->
