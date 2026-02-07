@@ -22,14 +22,12 @@ Sou um desenvolvedor Fullstack com foco em **Backend (Python/Django)** e **Arqui
 
 ---
 
-<!--
 ### 📈 Projetos em Destaque:
 
 - **[Python Idempotency Logic](link-do-seu-repo):** Implementação de controle de concorrência para sistemas distribuídos.
-- **[SQL Performance Lab](link-do-seu-repo):** Laboratório de otimização de consultas para grandes volumes de dados financeiros.
+- **[SQL Performance Lab]([link-do-seu-repo](https://github.com/kmatheus/postgresql-financial-analytics-poc.git):** Laboratório de otimização de consultas para grandes volumes de dados financeiros.
 
 ---
--->
 
 📫 **Como me encontrar:**
 [https://www.linkedin.com/in/kelvin-matheusblaze] | [kmatheus.blaze@gmail.com]
