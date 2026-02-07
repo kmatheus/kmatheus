@@ -1,6 +1,4 @@
 # Olá, eu sou o Kelvin Matheus! 👋
-- 🎓 **Bacharel em Sistemas de Infomação**
-- 🌎 **Goiânia-GO, Brazil**
 
 ### Software Engineer | Backend Specialist | Fintech & EdTech
 
