@@ -24,8 +24,8 @@ Sou um desenvolvedor Fullstack com foco em **Backend (Python/Django)** e **Arqui
 
 ### 📈 Projetos em Destaque:
 
-- **[Python Idempotency Logic](link-do-seu-repo):** Implementação de controle de concorrência para sistemas distribuídos.
-- **[SQL Performance Lab]([link-do-seu-repo](https://github.com/kmatheus/postgresql-financial-analytics-poc.git):** Laboratório de otimização de consultas para grandes volumes de dados financeiros.
+- **[Python Idempotency Logic](https://github.com/kmatheus/python-idempotency-logic.git):** Implementação de controle de concorrência para sistemas distribuídos.
+- **[SQL Performance Lab](https://github.com/kmatheus/postgresql-financial-analytics-poc.git):** Laboratório de otimização de consultas para grandes volumes de dados financeiros.
 
 ---
 
