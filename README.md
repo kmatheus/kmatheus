@@ -30,6 +30,6 @@ Sou um desenvolvedor Fullstack com foco em **Backend (Python/Django)** e **Arqui
 ---
 
 📫 **Como me encontrar:**
-[https://www.linkedin.com/in/kelvin-matheusblaze] | [kmatheus.blaze@gmail.com]
+https://www.linkedin.com/in/kelvin-matheusblaze | kmatheus.blaze@gmail.com
 
 
