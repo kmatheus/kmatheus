@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend Specialist | Fintech & EdTech
 
-Sou um desenvolvedor Fullstack com foco em **Backend (Python/Django)** e **Arquitetura de Sistemas Financeiros**. Com mais de 3 anos de experiência atuando no core técnico de ERPs educacionais, sou especialista em transformar regras de negócio complexas em soluções escaláveis e resilientes.
+Sou um desenvolvedor Fullstack com foco em **Backend (Python/Django)** e **Arquitetura de Sistemas Financeiros**. Com mais de 4 anos de experiência atuando no core técnico de ERPs educacionais, sou especialista em transformar regras de negócio complexas em soluções escaláveis e resilientes.
 
 ---
 
