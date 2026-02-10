@@ -24,7 +24,7 @@ Sou um desenvolvedor Fullstack com foco em **Backend (Python/Django)** e **Arqui
 
 ### 📈 Projetos em Destaque:
 
-- **[Software Engineering Laboratory](https://github.com/kmatheus/software-engineering-laboratory.git):** Laboratório prático de conceitos avançados de engenharia de software aplicada ao mundo real (Backend/Fintech)..
+- **[Software Engineering Laboratory](https://github.com/kmatheus/software-engineering-laboratory.git):** Laboratório prático de conceitos avançados de engenharia de software aplicada ao mundo real (Backend/Fintech).
 - **[Python Idempotency Logic](https://github.com/kmatheus/python-idempotency-logic.git):** Implementação de controle de concorrência para sistemas distribuídos.
 - **[SQL Performance Lab](https://github.com/kmatheus/postgresql-financial-analytics-poc.git):** Laboratório de otimização de consultas para grandes volumes de dados financeiros.
 
