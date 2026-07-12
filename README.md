@@ -28,10 +28,10 @@ Engenheiro de Backend com 4 anos de experiência em sistemas financeiros de miss
 
 ## 📌 Projetos em Destaque
 
-- **[Software Engineering Laboratory](https://github.com/kmatheus/software-engineering-laboratory.git):** Race conditions, observability, idempotency, graceful shutdown
-- **[Python Idempotency Logic](https://github.com/kmatheus/python-idempotency-logic.git):** Decorators com Redis lock
-- **[SQL Performance Lab](https://github.com/kmatheus/postgresql-financial-analytics-poc.git):** CTEs, window functions
-- **[Flow Process](https://github.com/kmatheus/flow-process):**: FastAPI + Celery + Redis + Docker
+- [Software Engineering Laboratory](https://github.com/kmatheus/software-engineering-laboratory.git) - Race conditions, observability, idempotency, graceful shutdown
+- [Python Idempotency Logic](https://github.com/kmatheus/python-idempotency-logic.git) - Decorators com Redis lock
+- [SQL Performance Lab](https://github.com/kmatheus/postgresql-financial-analytics-poc.git) - CTEs, window functions
+- [Flow Process](https://github.com/kmatheus/flow-process) - FastAPI + Celery + Redis + Docker
 
 ## 📫 Contato
 
