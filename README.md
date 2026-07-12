@@ -1,36 +1,42 @@
 # Olá, eu sou o Kelvin Matheus! 👋
 
-### Software Engineer | Backend Specialist | Fintech & EdTech
-
-Sou um Engenheiro de Software com foco em **Backend (Python/Django)** e **Arquitetura de Sistemas Financeiros**. Com mais de 4 anos de experiência atuando no core técnico de ERPs educacionais, sou especialista em transformar regras de negócio complexas em soluções escaláveis e resilientes.
+**Backend Engineering Specialist | Python & Django | Fintech & EdTech | AWS Serverless**
 
 ---
 
-### 🚀 O que eu trago para a mesa:
+## 🚀 Sobre mim
 
-- **Domínio de Regras de Negócio:** Experiência profunda em faturamento, conciliação bancária, emissão de NFe/NFSe em lote e fluxos de cobrança automática.
-- **Engenharia de Dados:** Otimização de queries SQL complexas (CTEs, Joins, Window Functions) e processamento em massa (100k+ registros).
-- **Arquitetura Distribuída:** Implementação de rotinas assíncronas com AWS Lambda, controle de concorrência e princípios de idempotência.
-- **Resolução de Problemas:** Experiência em ambientes de alta criticidade (missão crítica), lidando com legados e modernização de processos.
+Engenheiro de Backend com 4 anos de experiência em sistemas financeiros de missão crítica. Especialista em Python/Django, otimização SQL (50+ JOINs) e arquitetura serverless.
 
-### 🛠️ Tech Stack:
-
-- **Linguagens:** Python, SQL (PostgreSQL), JavaScript.
-- **Frameworks:** Django, Django Rest Framework, FastAPI.
-- **Infra & Cloud:** AWS (Lambda, EventBridge), Kubernetes, Docker.
-- **Integrações:** FocusNFe, Stone API, Gateways de Pagamento.
+- 🏢 Atualmente: Engenheiro de Software Backend na Cubo Escolar (EdTech)
+- 💰 Sistema processa R$ 8M+/mês em NFe/NFSe
+- 🎓 10.000+ alunos atendidos
+- ☁️ AWS (Lambda, S3, EventBridge) · Docker · PostgreSQL · Redis
 
 ---
 
-### 📈 Projetos em Destaque:
+## 🛠️ Tech Stack
 
-- **[Software Engineering Laboratory](https://github.com/kmatheus/software-engineering-laboratory.git):** Laboratório prático de conceitos avançados de engenharia de software aplicada ao mundo real (Backend/Fintech).
-- **[Python Idempotency Logic](https://github.com/kmatheus/python-idempotency-logic.git):** Implementação de controle de concorrência para sistemas distribuídos.
-- **[SQL Performance Lab](https://github.com/kmatheus/postgresql-financial-analytics-poc.git):** Laboratório de otimização de consultas para grandes volumes de dados financeiros.
+**Linguagens:** Python, SQL, JavaScript  
+**Frameworks:** Django, DRF, FastAPI  
+**Infra:** AWS, Docker  
+**Banco:** PostgreSQL, Redis  
+**Filas:** Celery, SQS  
+**Ferramentas:** Git, Vercel, Render
 
 ---
 
-📫 **Como me encontrar:**
-https://www.linkedin.com/in/kelvin-matheusblaze | kelvin.matheus.dev@gmail.com
+## 📌 Projetos em Destaque
+
+- **[Software Engineering Laboratory](https://github.com/kmatheus/software-engineering-laboratory.git):** Race conditions, observability, idempotency.
+- **[Python Idempotency Logic](https://github.com/kmatheus/python-idempotency-logic.git):** Decorators com Redis lock
+- **[SQL Performance Lab](https://github.com/kmatheus/postgresql-financial-analytics-poc.git):** CTEs, window function
+  **[Flow Process](https://github.com/kmatheus/flow-process):**: FastAPI + Celery + Redis + Docker
+
+## 📫 Contato
+
+📱 (62) 98550-3178  
+📧 kelvin.matheus.dev@gmail.com  
+🔗 [linkedin.com/in/kelvin-matheusdev](https://linkedin.com/in/kelvin-matheusdev)
 
 
