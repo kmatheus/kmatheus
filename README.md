@@ -35,8 +35,8 @@ Engenheiro de Backend com 4 anos de experiência em sistemas financeiros de miss
 
 ## 📫 Contato
 
-📱 (62) 98550-3178  
-📧 kelvin.matheus.dev@gmail.com  
-🔗 [linkedin.com/in/kelvin-matheusdev](https://linkedin.com/in/kelvin-matheusdev)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/5562985503178)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kelvin-matheusdev)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kelvin.matheus.dev@gmail.com)
 
 
