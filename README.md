@@ -1,17 +1,16 @@
 # Olá, eu sou o Kelvin Matheus! 👋
 
-**Backend Engineering Specialist | Python & Django | Fintech & EdTech | AWS Serverless**
+**Fullstack Developer | Python & Django | Fintech & EdTech | AWS Serverless**
 
 ---
 
 ## 🚀 Sobre mim
 
-Engenheiro de Backend com 4 anos de experiência em sistemas financeiros de missão crítica. Especialista em Python/Django, otimização SQL (50+ JOINs) e arquitetura serverless.
+Desenvolvedor Fullstack com foco em Backend com 4 anos de experiência em sistemas financeiros de missão crítica. Especialista em Python/Django, otimização SQL e arquitetura serverless.
 
-- 🏢 Atualmente: Engenheiro de Software Backend na Cubo Escolar (EdTech)
-- 💰 Sistema processa R$ 8M+/mês em NFe/NFSe
-- 🎓 10.000+ alunos atendidos
-- ☁️ AWS (Lambda, S3, EventBridge) · Docker · PostgreSQL · Redis
+- 🏢 Atualmente: Desenvolvedor Fullstack na Cubo Escolar (EdTech)
+- 💰 Sistema processa grandes volumes/mês em NFe/NFSe
+- ☁️ AWS (Lambda, S3, EventBridge) · Docker · PostgreSQL · Redis + Celery
 
 ---
 
