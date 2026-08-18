@@ -6,10 +6,10 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Fullstack com foco em Backend com 4 anos de experiência em sistemas financeiros de missão crítica. Especialista em Python/Django, otimização SQL e arquitetura serverless.
+Desenvolvedor Fullstack com foco em Backend com 4 anos de experiência em sistemas financeiros de missão crítica. Python/Django, otimização SQL e arquitetura serverless.
 
 - 🏢 Atualmente: Desenvolvedor Fullstack na Cubo Escolar (EdTech)
-- 💰 Sistema processa grandes volumes/mês em NFe/NFSe
+- 💰 Sistema que processa grandes volumes/mês em NFe/NFSe
 - ☁️ AWS (Lambda, S3, EventBridge) · Docker · PostgreSQL · Redis + Celery
 
 ---
